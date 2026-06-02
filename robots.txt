@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph06-bot.github.io/riviera-recovery-77909/sitemap.xml
+Sitemap: https://riviera-recovery-77909.pages.dev/sitemap.xml
